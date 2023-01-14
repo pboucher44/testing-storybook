@@ -6,5 +6,5 @@ import {Component, Input} from '@angular/core';
   styleUrls: ['./awesome-button.component.css']
 })
 export class AwesomeButtonComponent {
-  @Input() buttonTest = ''
+  @Input() buttonText = ''
 }

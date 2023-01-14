@@ -1,4 +1,6 @@
 .radius {
-  background-color: aquamarine;
   border-radius: 90px;
+  padding-right: 30px;
+  padding-left: 30px;
+  height: 30px;
 }
